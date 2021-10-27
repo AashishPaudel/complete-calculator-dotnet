@@ -1,0 +1,10 @@
+D:\Aashish\DotNet projects\completecalculator\completecalculator\bin\Debug\completecalculator.exe.config
+D:\Aashish\DotNet projects\completecalculator\completecalculator\bin\Debug\completecalculator.exe
+D:\Aashish\DotNet projects\completecalculator\completecalculator\bin\Debug\completecalculator.pdb
+D:\Aashish\DotNet projects\completecalculator\completecalculator\obj\Debug\completecalculator.csproj.AssemblyReference.cache
+D:\Aashish\DotNet projects\completecalculator\completecalculator\obj\Debug\completecalculator.Form1.resources
+D:\Aashish\DotNet projects\completecalculator\completecalculator\obj\Debug\completecalculator.Properties.Resources.resources
+D:\Aashish\DotNet projects\completecalculator\completecalculator\obj\Debug\completecalculator.csproj.GenerateResource.cache
+D:\Aashish\DotNet projects\completecalculator\completecalculator\obj\Debug\completecalculator.csproj.CoreCompileInputs.cache
+D:\Aashish\DotNet projects\completecalculator\completecalculator\obj\Debug\completecalculator.exe
+D:\Aashish\DotNet projects\completecalculator\completecalculator\obj\Debug\completecalculator.pdb
